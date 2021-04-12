@@ -1,5 +1,6 @@
 from selenium import webdriver
 
+#read data from a json file
 
 def main():
     driver = webdriver.Firefox()
